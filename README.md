@@ -1,3 +1,5 @@
+[![Published on webcomponents.org](https://img.shields.io/badge/webcomponents.org-published-blue.svg)](https://www.webcomponents.org/element/owner/my-element)
+
 # liona-scriptadder
 
 Die Webkomponente fügt Kindelemente vom Typ &lt;script> in den head Bereich der aktuellen Seite ein. 
@@ -20,7 +22,7 @@ TODO: Write usage instructions
 
 ## History
 
-TODO: Write history
+Initial Project Setup along to the description: https://www.webcomponents.org/publish
 
 ## Credits
 
